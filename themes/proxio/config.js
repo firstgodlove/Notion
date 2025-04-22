@@ -84,7 +84,7 @@ const CONFIG = {
         '超 50 万用户信赖的情趣选购殿堂，这里不仅是产品的集合地，更是暗夜温柔的守护者。',
 
     // 用户测评处的跳转按钮
-    PROXIO_TESTIMONIALS_BUTTON_URL: '/about',
+    PROXIO_TESTIMONIALS_BUTTON_URL: '/didime',
     PROXIO_TESTIMONIALS_BUTTON_TEXT: '联系我',
 
     // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
