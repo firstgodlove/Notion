@@ -84,68 +84,70 @@ const CONFIG = {
         '数千位站长选择用NotionNext搭建他们的网站,通过帮助手册、交流社群以及技术咨询，大家成功上线了自己的网站',
 
     // 用户测评处的跳转按钮
-    PROXIO_TESTIMONIALS_BUTTON_URL: '/about',
+    //PROXIO_TESTIMONIALS_BUTTON_URL: '/about',
     PROXIO_TESTIMONIALS_BUTTON_TEXT: '联系我',
 
     // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
     PROXIO_TESTIMONIALS_ITEMS: [
         {
             PROXIO_TESTIMONIALS_ITEM_TEXT:
-                '感谢大佬的方法。之前尝试过Super、Potion等国外的第三方平台，实现效果一般，个性化程度远不如这个方法，已经用起来了！ ',
+                '每一寸纹理都精准复刻真实触感，柔软又有弹性的材质像温柔拥抱。细腻亲肤的表面，搭配加热功能，让每一次互动都仿佛置身真实场景，沉浸感拉满，私密的快乐时光就此开启！',
             PROXIO_TESTIMONIALS_ITEM_AVATAR:
                 'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22de3fcb-d90d-4271-bc01-f815f476122b%2F4FE0A0C0-E487-4C74-BF8E-6F01A27461B8-14186-000008094BC289A6.jpg?table=collection&id=a320a2cc-6ebe-4a8d-95cc-ea94e63bced9&width=200',
             PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'Ryan_G',
-            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: 'Ryan`Log 站长',
+            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '情趣倒膜',
             PROXIO_TESTIMONIALS_ITEM_URL: 'https://blog.gaoran.xyz/'
         },
         {
             PROXIO_TESTIMONIALS_ITEM_TEXT:
-                '很喜欢这个主题，本代码小白用三天台风假期搭建出来了，还根据大佬的教程弄了自定义域名，十分感谢，已请喝咖啡~',
+                '穿上它的瞬间，自信与性感油然而生。精致蕾丝勾勒曲线，镂空设计若隐若现，每一处细节都在诉说着诱惑。它不只是一件衣服，更是唤醒魅力的魔法道具，让亲密时刻充满无限遐想。',
             PROXIO_TESTIMONIALS_ITEM_AVATAR:
                 'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d33d169-f932-41ff-ac6b-88a923c08e02%2F%25E5%25A4%25B4%25E5%2583%258F.jfif?table=collection&id=7787658d-d5c0-4f34-8e32-60c523dfaba3&width=400',
             PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'Asenkits',
-            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '阿森的百宝袋 站长',
+            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '情趣内衣',
             PROXIO_TESTIMONIALS_ITEM_URL: 'https://asenkits.top/'
         },
         {
             PROXIO_TESTIMONIALS_ITEM_TEXT:
-                '呜呜呜，经过一个下午的努力，终于把博客部署好啦，非常感谢Tangly1024大佬的框架和教程，这是我有生之年用过的最好用的博客框架┭┮﹏┭┮。从今之后，我就可以在自己的博客里bb啦，( •̀ ω •́ )y ',
+                '当束缚与释放交织，禁忌与刺激碰撞，全新的感官世界就此打开。细腻的皮革触感，精巧的扣锁设计，每一次尝试都是对欲望的深度探索。在这场充满张力的游戏里，解锁别样的亲密体验。',
             PROXIO_TESTIMONIALS_ITEM_AVATAR:
                 '/avatar.png',
             PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'DWIND',
-            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '且听风吟 站长',
+            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: 'SM 情趣道具',
             PROXIO_TESTIMONIALS_ITEM_URL: 'https://www.dwind.top/'
         },
         {
             PROXIO_TESTIMONIALS_ITEM_TEXT:
-                '感谢提供这么好的项目哈哈 之前一直不知道怎么部署(别的项目好难好复杂)这个相对非常简单 新手非常友好哦',
+                '轻轻一喷，时间仿佛被掌控。延长欢愉时刻，告别仓促，让自信回归。温和配方，不麻木不刺激，只留下更持久的快乐与满足，和伴侣一同沉浸在绵延不绝的亲密时光中。',
             PROXIO_TESTIMONIALS_ITEM_AVATAR:
                 'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd52f6766-3e32-4c3d-8529-46e1f214360f%2Ffavicon.svg?table=collection&id=7d76aad5-a2c4-4d9a-887c-c7913fae4eed&width=400',
             PROXIO_TESTIMONIALS_ITEM_NICKNAME: '迪升disheng ',
-            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: 'AI资源分享 Blog',
+            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '延时喷剂',
             PROXIO_TESTIMONIALS_ITEM_URL: 'https://blog.disheng.org/'
         },
         {
             PROXIO_TESTIMONIALS_ITEM_TEXT:
-                '灰常感谢大佬的博客项目，能将博客和notion结合起来，这一直是我挺期待的博客模式。',
+                '多种震动模式随心切换，从轻柔酥麻到强劲震撼，精准刺激每一处敏感地带。小巧便携的设计，静音又私密，无论是独处还是与伴侣互动，都能带来意想不到的极致愉悦，探索身体的无限可能。',
             PROXIO_TESTIMONIALS_ITEM_AVATAR:
                 '/avatar.png',
             PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'AnJhon',
-            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: 'Anjhon`s Blog 站长',
+            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '振动棒：',
             PROXIO_TESTIMONIALS_ITEM_URL: 'https://www.anjhon.top'
         },
         {
-            PROXIO_TESTIMONIALS_ITEM_TEXT: '用好久了，太感谢了',
+            PROXIO_TESTIMONIALS_ITEM_TEXT:
+                '掌心大小的迷你精灵，却藏着无尽的欢愉能量。轻轻一按，多种频率震动瞬间激活，酥麻感从私密处蔓延全身。无论是偷偷藏在裙摆下，享受外出时的隐秘刺激；还是与伴侣依偎时，用它点燃激情的火苗，都能轻松打破平淡，让每一刻亲密都充满惊喜与期待，解锁你从未想象过的快乐阈值。​
+',
             PROXIO_TESTIMONIALS_ITEM_AVATAR:
                 '/avatar.png',
             PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'LUCEN',
-            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: 'LUCEN考验辅导 站长',
+            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '情趣跳蛋',
             PROXIO_TESTIMONIALS_ITEM_URL: 'https://www.lucenczz.top/'
         }
     ],
 
     //   FAQ 常见问题模块
-    PROXIO_FAQ_ENABLE: true, // 常见问题模块开关
+    PROXIO_FAQ_ENABLE: flase, // 常见问题模块开关
     PROXIO_FAQ_TITLE: '常见问题解答',
     PROXIO_FAQ_TEXT_1: '有任何问题吗？请看这里',
     PROXIO_FAQ_TEXT_2: '我们收集了常见的用户疑问',
@@ -245,12 +247,12 @@ const CONFIG = {
     // 页面底部的行动呼吁模块
     PROXIO_CTA_ENABLE: true,
     PROXIO_CTA_TITLE: '与我建立联系',
-    PROXIO_CTA_TITLE_2: '让我们立刻启动您的项目',
+    PROXIO_CTA_TITLE_2: '让我们立刻启动您的情趣荷尔蒙',
     PROXIO_CTA_DESCRIPTION:
-        '访问NotionNext的操作文档，我们提供了详细的教程，帮助你即刻搭建站点',
+        '搜索“易哒成人用品”或者“易哒知识分享”微信小程',
     PROXIO_CTA_BUTTON: true, // 是否显示按钮
     PROXIO_CTA_BUTTON_URL:
-        '/about',
+        '/#',
     PROXIO_CTA_BUTTON_TEXT: '联系我',
 
     PROXIO_POST_REDIRECT_ENABLE: true, // 默認開啟重定向
