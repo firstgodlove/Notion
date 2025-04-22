@@ -172,7 +172,7 @@ const CONFIG = {
     PROXIO_ABOUT_KEY_4: '累积创作时长（小时）',
     PROXIO_ABOUT_VAL_4: '1000+',
 
-    PROXIO_ABOUT_BUTTON_URL: '/about',
+    PROXIO_ABOUT_BUTTON_URL: '/didime',
     PROXIO_ABOUT_BUTTON_TEXT: '关于我',
 
     // 横向滚动文字
@@ -247,10 +247,10 @@ const CONFIG = {
     PROXIO_CTA_TITLE: '与我建立联系',
     PROXIO_CTA_TITLE_2: '让我们立刻启动您的项目',
     PROXIO_CTA_DESCRIPTION:
-        '访问NotionNext的操作文档，我们提供了详细的教程，帮助你即刻搭建站点',
+        '搜索小程序易哒成人用品“”，我们提供了更多格式各样的产品，帮助你度过每一个愉快的夜晚',
     PROXIO_CTA_BUTTON: true, // 是否显示按钮
     PROXIO_CTA_BUTTON_URL:
-        '/about',
+        '/didime',
     PROXIO_CTA_BUTTON_TEXT: '联系我',
 
     PROXIO_POST_REDIRECT_ENABLE: true, // 默認開啟重定向
