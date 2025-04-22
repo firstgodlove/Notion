@@ -40,25 +40,25 @@ const CONFIG = {
     // 特性区块
     PROXIO_FEATURE_ENABLE: true, // 特性区块开关
     PROXIO_FEATURE_TITLE: '为什么选我',
-    PROXIO_FEATURE_TEXT_1: '我能让您的项目焕发光彩',
+    PROXIO_FEATURE_TEXT_1: '为独处时光，打造专属浪漫',
     PROXIO_FEATURE_TEXT_2:
-        '丰富的案例经验，专业的技术服务，优质的沟通效率',
+        '每一次触碰，都像一场温柔的对话，带你探索自我，发现身体的隐秘欢愉，在独处中拥抱最真实的自己。',
 
     // 特性1
     PROXIO_FEATURE_1_ICON_CLASS: 'fa-solid fa-stopwatch', // fas图标
     PROXIO_FEATURE_1_ICON_IMG_URL: '', // 图片图标选填，默认是fas图标，如果需要图片图标可以填写图片地址，示例/avatar.png
-    PROXIO_FEATURE_1_TITLE_1: '高效工作流程',
-    PROXIO_FEATURE_1_TEXT_1: '精简的设计流程确保快速交付，在紧迫的工期下仍能保证品质与细节不打折扣。',
+    PROXIO_FEATURE_1_TITLE_1: '让爱意升温',
+    PROXIO_FEATURE_1_TEXT_1: '细腻的质感，创新的设计，将亲密氛围烘托到极致，让每一次相拥、每一个吻都饱含深情，让爱在此刻绽放出更绚烂的光彩。',
 
     PROXIO_FEATURE_2_ICON_CLASS: 'fa-solid fa-comments',
     PROXIO_FEATURE_2_ICON_IMG_URL: '', 
-    PROXIO_FEATURE_2_TITLE_1: '协作式流程',
-    PROXIO_FEATURE_2_TEXT_1: '与你紧密合作，融合反馈意见，打造超越预期的设计',
+    PROXIO_FEATURE_2_TITLE_1: '书写私密故事',
+    PROXIO_FEATURE_2_TEXT_1: '每一款情趣产品，都是一个独特的故事。它可以是俏皮的、浪漫的、热烈的…… 在这里，你可以尽情发挥想象，与伴侣共同编织只属于你们的私密篇章，让爱情在创意中不断升温。',
 
     PROXIO_FEATURE_3_ICON_CLASS: 'fa-solid fa-search',
     PROXIO_FEATURE_2_ICON_IMG_URL: '',
-    PROXIO_FEATURE_3_TITLE_1: '细节把控',
-    PROXIO_FEATURE_3_TEXT_1: '精益求精雕琢每个元素，确保成品精致统一，令人过目难忘',
+    PROXIO_FEATURE_3_TITLE_1: '解锁新体验',
+    PROXIO_FEATURE_3_TEXT_1: '亲密关系更需要惊喜，从别具一格的造型到充满巧思的功能，每一款都能打破常规，为你开启未知的快乐之旅，让平凡日子也能充满新鲜感。',
 
     PROXIO_FEATURE_BUTTON_TEXT: '了解更多', // 按钮文字
     PROXIO_FEATURE_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 按钮跳转
