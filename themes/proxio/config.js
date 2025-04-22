@@ -3,18 +3,18 @@
  */
 const CONFIG = {
     PROXIO_WELCOME_COVER_ENABLE: true, //是否显示页面进入的欢迎文字
-    PROXIO_WELCOME_TEXT: '欢迎来到此网站，点击任意位置进入', // 欢迎文字，留空则不启用
+    PROXIO_WELCOME_TEXT: '欢迎来到易哒情趣分享，点击任意位置进入', // 欢迎文字，留空则不启用
 
     // 英雄区块导航
     PROXIO_HERO_ENABLE: true, // 开启英雄区
     PROXIO_HERO_TITLE_1: '两性相关的 Yida 笔记的知识分享网站', // 英雄区文字
     PROXIO_HERO_TITLE_2: '通过笔记无感知地分享、成倍放大您的情绪价值', // 英雄区文字
     // 英雄区两个按钮，如果TEXT留空则隐藏按钮
-    //PROXIO_HERO_BUTTON_1_TEXT: '开始体验', // 英雄区按钮
-    //PROXIO_HERO_BUTTON_1_URL:
-        //'https://docs.tangly1024.com/article/vercel-deploy-notion-next', // 英雄区按钮
+    /*PROXIO_HERO_BUTTON_1_TEXT: '开始体验', // 英雄区按钮
+    PROXIO_HERO_BUTTON_1_URL:
+        'https://docs.tangly1024.com/article/vercel-deploy-notion-next', // 英雄区按钮*/
     PROXIO_HERO_BUTTON_2_TEXT: '在Github上关注', // 英雄区按钮
-    PROXIO_HERO_BUTTON_2_URL: 'https://cr.yidae.cn', // 英雄区按钮
+    PROXIO_HERO_BUTTON_2_URL: 'cr.yidae.eu.org', // 英雄区按钮
     PROXIO_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
 
     // 英雄区配图，如需隐藏，改为空值即可 ''
@@ -72,9 +72,8 @@ const CONFIG = {
     // 生涯内容卡牌 ，title是标题 ，bio是备注，text是详情
     PROXIO_CAREERS: [
         { title: 'Adult Products Tester', bio: '2016-2020', text: 'With a deep focus on the adult products field, I have systematically experienced over 100 erotic products, covering the entire product range. Leveraging my professional perspective and extensive practical experience, I conduct in - depth analyses from multiple dimensions, such as materials, functions, and user experience. I accurately grasp the characteristics of each product, thoroughly explore their advantages and disadvantages, providing professional references for product selection and optimization.' },
-        { title: 'Adult Products Designer', bio: '2020-2022', text: 'With a deep focus on the design of erotic products, I have meticulously crafted dozens of innovative creations, unlocking diverse intimate experiences for over 500,000 users and infusing their single lives with unique charm. Each product embodies distinctive ingenuity. From the delicate texture of materials to the innovative design of functions, all are custom - tailored for exploring private pleasures. In a genuine, warm, and loving manner, these products redefine new horizons of erotic life.​
-' },
-        { title: 'Self-Employed Intimate Products Designer', bio: '2022-Now', text: 'As a freelance erotic products designer, I've broken free from all constraints, freely expressing my unique understanding of sensuality. I pour my unrestrained creativity and meticulous ingenuity into every product without reservation. From the careful selection of materials to the bold innovation in shapes and functions, everything is aimed at breaking the mold and unlocking entirely new intimate experiences. With these creations that embody the spirit of freedom, I aspire to infuse my users with endless erotic vitality, filling every corner of life with romance and surprises, and imbuing each intimate moment with meaning and value.' }
+        { title: 'Adult Products Designer', bio: '2020-2022', text: 'With a deep focus on the design of erotic products, I have meticulously crafted dozens of innovative creations, unlocking diverse intimate experiences for over 500,000 users and infusing their single lives with unique charm. Each product embodies distinctive ingenuity. From the delicate texture of materials to the innovative design of functions, all are custom - tailored for exploring private pleasures. In a genuine, warm, and loving manner, these products redefine new horizons of erotic life.​' },
+        { title: 'Self-Employed Intimate Products Designer', bio: '2022-Now', text: 'As a freelance erotic products designer, I have broken free from all constraints, freely expressing my unique understanding of sensuality. I pour my unrestrained creativity and meticulous ingenuity into every product without reservation. From the careful selection of materials to the bold innovation in shapes and functions, everything is aimed at breaking the mold and unlocking entirely new intimate experiences. With these creations that embody the spirit of freedom, I aspire to infuse my users with endless erotic vitality, filling every corner of life with romance and surprises, and imbuing each intimate moment with meaning and value.' }
     ],
 
     // 首页用户测评区块
@@ -82,17 +81,17 @@ const CONFIG = {
     PROXIO_TESTIMONIALS_TITLE: '用户反馈',
     PROXIO_TESTIMONIALS_TEXT_1: '我们的用户怎么说',
     PROXIO_TESTIMONIALS_TEXT_2:
-        '数千位站长选择用NotionNext搭建他们的网站,通过帮助手册、交流社群以及技术咨询，大家成功上线了自己的网站',
+        '超 50 万用户信赖的情趣选购殿堂，这里不仅是产品的集合地，更是暗夜温柔的守护者。',
 
     // 用户测评处的跳转按钮
-    //PROXIO_TESTIMONIALS_BUTTON_URL: '/about',
+    PROXIO_TESTIMONIALS_BUTTON_URL: '/about',
     PROXIO_TESTIMONIALS_BUTTON_TEXT: '联系我',
 
     // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
     PROXIO_TESTIMONIALS_ITEMS: [
         {
             PROXIO_TESTIMONIALS_ITEM_TEXT:
-                '每一寸纹理都精准复刻真实触感，柔软又有弹性的材质像温柔拥抱。细腻亲肤的表面，搭配加热功能，让每一次互动都仿佛置身真实场景，沉浸感拉满，私密的快乐时光就此开启！',
+                '每一寸纹理都精准复刻真实触感，柔软又有弹性的材质像温柔拥抱。细腻亲肤的表面，搭配加热功能，让每一次互动都仿佛置身真实场景，沉浸感拉满，私密的快乐时光就此开启！ ',
             PROXIO_TESTIMONIALS_ITEM_AVATAR:
                 'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22de3fcb-d90d-4271-bc01-f815f476122b%2F4FE0A0C0-E487-4C74-BF8E-6F01A27461B8-14186-000008094BC289A6.jpg?table=collection&id=a320a2cc-6ebe-4a8d-95cc-ea94e63bced9&width=200',
             PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'Ryan_G',
@@ -132,13 +131,11 @@ const CONFIG = {
             PROXIO_TESTIMONIALS_ITEM_AVATAR:
                 '/avatar.png',
             PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'AnJhon',
-            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '振动棒：',
+            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '振动棒',
             PROXIO_TESTIMONIALS_ITEM_URL: 'https://www.anjhon.top'
         },
         {
-            PROXIO_TESTIMONIALS_ITEM_TEXT:
-                '掌心大小的迷你精灵，却藏着无尽的欢愉能量。轻轻一按，多种频率震动瞬间激活，酥麻感从私密处蔓延全身。无论是偷偷藏在裙摆下，享受外出时的隐秘刺激；还是与伴侣依偎时，用它点燃激情的火苗，都能轻松打破平淡，让每一刻亲密都充满惊喜与期待，解锁你从未想象过的快乐阈值。​
-',
+            PROXIO_TESTIMONIALS_ITEM_TEXT: '掌心大小的迷你精灵，却藏着无尽的欢愉能量。轻轻一按，多种频率震动瞬间激活，酥麻感从私密处蔓延全身。无论是偷偷藏在裙摆下，享受外出时的隐秘刺激；还是与伴侣依偎时，用它点燃激情的火苗，都能轻松打破平淡，让每一刻亲密都充满惊喜与期待，解锁你从未想象过的快乐阈值。',
             PROXIO_TESTIMONIALS_ITEM_AVATAR:
                 '/avatar.png',
             PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'LUCEN',
@@ -167,12 +164,12 @@ const CONFIG = {
         'With years of experience in experiencing a wide variety of products and years of sales experience in the adult products industry, I want to recommend to my customers the adult products that I personally consider to be the best, the most comfortable, and the safest.',
     PROXIO_ABOUT_PHOTO_URL: '/avatar.png',
     PROXIO_ABOUT_KEY_1: '经验年限',
-    PROXIO_ABOUT_VAL_1: '8年+',
+    PROXIO_ABOUT_VAL_1: '10年+',
     PROXIO_ABOUT_KEY_2: '客户',
     PROXIO_ABOUT_VAL_2: '1000+',
-    PROXIO_ABOUT_KEY_3: '体验种类',
-    PROXIO_ABOUT_VAL_3: '500+',
-    PROXIO_ABOUT_KEY_4: '累积体验时长（小时）',
+    PROXIO_ABOUT_KEY_3: '体验次数',
+    PROXIO_ABOUT_VAL_3: '1000+',
+    PROXIO_ABOUT_KEY_4: '累积创作时长（小时）',
     PROXIO_ABOUT_VAL_4: '1000+',
 
     PROXIO_ABOUT_BUTTON_URL: '/about',
@@ -248,12 +245,12 @@ const CONFIG = {
     // 页面底部的行动呼吁模块
     PROXIO_CTA_ENABLE: true,
     PROXIO_CTA_TITLE: '与我建立联系',
-    PROXIO_CTA_TITLE_2: '让我们立刻启动您的情趣荷尔蒙',
+    PROXIO_CTA_TITLE_2: '让我们立刻启动您的项目',
     PROXIO_CTA_DESCRIPTION:
-        '搜索“易哒成人用品”或者“易哒知识分享”微信小程',
+        '访问NotionNext的操作文档，我们提供了详细的教程，帮助你即刻搭建站点',
     PROXIO_CTA_BUTTON: true, // 是否显示按钮
     PROXIO_CTA_BUTTON_URL:
-        '/#',
+        '/about',
     PROXIO_CTA_BUTTON_TEXT: '联系我',
 
     PROXIO_POST_REDIRECT_ENABLE: true, // 默認開啟重定向
