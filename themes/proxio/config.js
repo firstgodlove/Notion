@@ -8,7 +8,7 @@ const CONFIG = {
     // 英雄区块导航
     PROXIO_HERO_ENABLE: true, // 开启英雄区
     PROXIO_HERO_TITLE_1: '两性相关的 Yida 笔记的知识分享网站', // 英雄区文字
-    PROXIO_HERO_TITLE_2: '通过笔记无感知地建站、成倍放大您的价值', // 英雄区文字
+    PROXIO_HERO_TITLE_2: '通过笔记无感知地分享、成倍放大您的情绪价值', // 英雄区文字
     // 英雄区两个按钮，如果TEXT留空则隐藏按钮
     //PROXIO_HERO_BUTTON_1_TEXT: '开始体验', // 英雄区按钮
     //PROXIO_HERO_BUTTON_1_URL:
@@ -178,17 +178,18 @@ const CONFIG = {
     // 横向滚动文字
     PROXIO_BRANDS_ENABLE: true, // 滚动文字
     PROXIO_BRANDS: [
-        'Web Design',
-        'Logo Design',
-        'Mobile App Design',
-        'Product Design'
+        'Mature sex',
+        'Sexy lingerie',
+        'Safe-Sex Sondom',
+        'Erectile Function Enhancing Delay Spray',
+        'SM Sensuality'
     ],
 
     PROXIO_FOOTER_SLOGAN: '我们通过技术为品牌和公司创造数字体验。',
 
     // 页脚三列菜单组
     // 页脚菜单
-    PROXIO_FOOTER_LINKS: [
+    /*PROXIO_FOOTER_LINKS: [
         {
             name: '友情链接',
             menus: [
@@ -223,7 +224,7 @@ const CONFIG = {
                     href: 'https://blog.tangly1024.com/about'
                 }
             ]
-        }],
+        }],*/
 
     PROXIO_FOOTER_BLOG_LATEST_TITLE: '最新文章',
 
