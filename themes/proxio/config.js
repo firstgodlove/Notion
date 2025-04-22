@@ -159,18 +159,18 @@ const CONFIG = {
     // 关于作者区块
     PROXIO_ABOUT_ENABLE: true, // 关于作者区块区块开关
     PROXIO_ABOUT_TITLE: '关于作者',
-    PROXIO_ABOUT_TEXT_1: 'I am an Architect Turned Into a Product Designer',
+    PROXIO_ABOUT_TEXT_1: 'I am an adult product experience officer and a short video blogger',
     PROXIO_ABOUT_TEXT_2:
-        'With a background in architecture, I now apply my expertise to product design, blending aesthetics, functionality, and innovation. My goal is to create modern, user-focused designs that bring your vision to life.',
+        'With years of experience in experiencing a wide variety of products and years of sales experience in the adult products industry, I want to recommend to my customers the adult products that I personally consider to be the best, the most comfortable, and the safest.',
     PROXIO_ABOUT_PHOTO_URL: '/avatar.png',
     PROXIO_ABOUT_KEY_1: '经验年限',
-    PROXIO_ABOUT_VAL_1: '10年+',
+    PROXIO_ABOUT_VAL_1: '8年+',
     PROXIO_ABOUT_KEY_2: '客户',
     PROXIO_ABOUT_VAL_2: '1000+',
-    PROXIO_ABOUT_KEY_3: '交付项目',
-    PROXIO_ABOUT_VAL_3: '5000+',
-    PROXIO_ABOUT_KEY_4: '累积创作时长（小时）',
-    PROXIO_ABOUT_VAL_4: '10000+',
+    PROXIO_ABOUT_KEY_3: '体验种类',
+    PROXIO_ABOUT_VAL_3: '500+',
+    PROXIO_ABOUT_KEY_4: '累积体验时长（小时）',
+    PROXIO_ABOUT_VAL_4: '1000+',
 
     PROXIO_ABOUT_BUTTON_URL: '/about',
     PROXIO_ABOUT_BUTTON_TEXT: '关于我',
