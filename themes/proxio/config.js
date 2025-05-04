@@ -166,7 +166,7 @@ const CONFIG = {
     PROXIO_ABOUT_KEY_1: '经验年限',
     PROXIO_ABOUT_VAL_1: '10年+',
     PROXIO_ABOUT_KEY_2: '客户',
-    PROXIO_ABOUT_VAL_2: '1000+',
+    PROXIO_ABOUT_VAL_2: '10000+',
     PROXIO_ABOUT_KEY_3: '体验次数',
     PROXIO_ABOUT_VAL_3: '1000+',
     PROXIO_ABOUT_KEY_4: '累积创作时长（小时）',
@@ -254,7 +254,7 @@ const CONFIG = {
     PROXIO_CTA_BUTTON_TEXT: '联系我',
 
     PROXIO_POST_REDIRECT_ENABLE: true, // 默認開啟重定向
-    PROXIO_POST_REDIRECT_URL: 'https://blog.tangly1024.com', // 重定向域名
+    PROXIO_POST_REDIRECT_URL: 'https://cr.yidae.eu.org', // 重定向域名
     PROXIO_NEWSLETTER: process.env.NEXT_PUBLIC_THEME_PROXIO_NEWSLETTER || false // 是否开启邮件订阅 请先配置mailchimp功能 https://docs.tangly1024.com/article/notion-next-mailchimp
 }
 export default CONFIG
