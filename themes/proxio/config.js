@@ -120,7 +120,7 @@ const CONFIG = {
             PROXIO_TESTIMONIALS_ITEM_TEXT:
                 '轻轻一喷，时间仿佛被掌控。延长欢愉时刻，告别仓促，让自信回归。温和配方，不麻木不刺激，只留下更持久的快乐与满足，和伴侣一同沉浸在绵延不绝的亲密时光中。',
             PROXIO_TESTIMONIALS_ITEM_AVATAR:
-                '/avatar/m003',
+                '/avatar/m003.jpg',
             PROXIO_TESTIMONIALS_ITEM_NICKNAME: '迪升disheng ',
             PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '延时喷剂',
             PROXIO_TESTIMONIALS_ITEM_URL: 'https://blog.disheng.org/'
