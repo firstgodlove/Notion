@@ -96,7 +96,7 @@ const CONFIG = {
                 '/avatar/m001.jpg',
             PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'Ryan_G',
             PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '情趣倒膜',
-            PROXIO_TESTIMONIALS_ITEM_URL: 'https://blog.gaoran.xyz/'
+            PROXIO_TESTIMONIALS_ITEM_URL: 'http://xcx.yidae.cn/aaNJQ'
         },
         {
             PROXIO_TESTIMONIALS_ITEM_TEXT:
@@ -105,7 +105,7 @@ const CONFIG = {
                 '/avatar/wm001.jpg',
             PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'Asenkits',
             PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '情趣内衣',
-            PROXIO_TESTIMONIALS_ITEM_URL: 'https://asenkits.top/'
+            PROXIO_TESTIMONIALS_ITEM_URL: 'http://xcx.yidae.cn/aVzRh'
         },
         {
             PROXIO_TESTIMONIALS_ITEM_TEXT:
@@ -114,7 +114,7 @@ const CONFIG = {
                 '/avatar/m002.jpg',
             PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'DWIND',
             PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: 'SM 情趣道具',
-            PROXIO_TESTIMONIALS_ITEM_URL: 'https://www.dwind.top/'
+            PROXIO_TESTIMONIALS_ITEM_URL: 'http://xcx.yidae.cn/aVzZ1'
         },
         {
             PROXIO_TESTIMONIALS_ITEM_TEXT:
@@ -123,7 +123,7 @@ const CONFIG = {
                 '/avatar/m003.jpg',
             PROXIO_TESTIMONIALS_ITEM_NICKNAME: '迪升disheng ',
             PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '延时喷剂',
-            PROXIO_TESTIMONIALS_ITEM_URL: 'https://blog.disheng.org/'
+            PROXIO_TESTIMONIALS_ITEM_URL: 'http://xcx.yidae.cn/7a0Dx'
         },
         {
             PROXIO_TESTIMONIALS_ITEM_TEXT:
@@ -132,7 +132,7 @@ const CONFIG = {
                 '/avatar/wm002.jpg',
             PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'AnJhon',
             PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '振动棒',
-            PROXIO_TESTIMONIALS_ITEM_URL: 'https://www.anjhon.top'
+            PROXIO_TESTIMONIALS_ITEM_URL: 'http://xcx.yidae.cn/cqoQ1'
         },
         {
             PROXIO_TESTIMONIALS_ITEM_TEXT: '掌心大小的迷你精灵，却藏着无尽的欢愉能量。轻轻一按，多种频率震动瞬间激活，酥麻感从私密处蔓延全身。无论是偷偷藏在裙摆下，享受外出时的隐秘刺激；还是与伴侣依偎时，用它点燃激情的火苗，都能轻松打破平淡，让每一刻亲密都充满惊喜与期待，解锁你从未想象过的快乐阈值。',
@@ -140,7 +140,7 @@ const CONFIG = {
                 '/avatar/wm003.jpg',
             PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'LUCEN',
             PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '情趣跳蛋',
-            PROXIO_TESTIMONIALS_ITEM_URL: 'https://www.lucenczz.top/'
+            PROXIO_TESTIMONIALS_ITEM_URL: 'http://xcx.yidae.cn/daZ2q'
         }
     ],
 
